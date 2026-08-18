@@ -7,8 +7,8 @@
 Electron launcher + native hook + FXServer-compatible node + community website.</p>
 
 <p align="center">
-  <a href="https://github.com/lsdojrp123-ai/GTAMPv1/releases/latest"><img src="https://img.shields.io/badge/latest-v2.1.1-e11d48?style=for-the-badge" alt="latest v2.1.1"></a>
-  <a href="https://github.com/lsdojrp123-ai/GTAMPv1/releases/latest"><img src="https://img.shields.io/badge/platform-Windows%2010%2F11%20x64-1f2937?style=for-the-badge" alt="Windows x64"></a>
+  <a href="https://github.com/GTAMPv1/releases/latest"><img src="https://img.shields.io/badge/latest-v2.1.1-e11d48?style=for-the-badge" alt="latest v2.1.1"></a>
+  <a href="https://github.com/GTAMPv1/releases/latest"><img src="https://img.shields.io/badge/platform-Windows%2010%2F11%20x64-1f2937?style=for-the-badge" alt="Windows x64"></a>
   <a href="https://github.com/citizenfx/fivem"><img src="https://img.shields.io/badge/design%20parity-citizenfx%2Ffivem-374151?style=for-the-badge" alt="FiveM parity"></a>
 </p>
 
@@ -20,7 +20,7 @@ Electron launcher + native hook + FXServer-compatible node + community website.<
 |---|---|
 | **GTAMP-Setup.exe** ← get this | **[GTAMP-Setup.exe](https://github.com//GTAMPv1/releases/latest/download/GTAMP-Setup.exe)** — the FiveM-style installer: double-click once, GTAMP lands on your desktop and **updates itself forever**. Setup automatically closes any stuck old GTAMP window during install. |
 | Portable (no install) | [GTAMP-Launcher-v2.1.1.exe](https://github.com//GTAMPv1/releases/latest/download/GTAMP-Launcher-v2.1.1.exe) |
-| All releases | [github.com/lsdojrp123-ai/GTAMPv1/releases](https://github.com//GTAMPv1/releases) |
+| All releases | [github.com//GTAMPv1/releases](https://github.com//GTAMPv1/releases) |
 
 > If Windows shows a blue SmartScreen prompt: **More info → Run anyway** (GTAMP is not code-signed, same as many mods).
 > The new window shows a **pink v2.1.1 top-right** — if yours doesn't, that's an old window, close it and run GTAMP again.
