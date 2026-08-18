@@ -18,9 +18,9 @@ Electron launcher + native hook + FXServer-compatible node + community website.<
 
 | | |
 |---|---|
-| **GTAMP-Setup.exe** ← get this | **[GTAMP-Setup.exe](https://github.com/lsdojrp123-ai/GTAMPv1/releases/latest/download/GTAMP-Setup.exe)** — the FiveM-style installer: double-click once, GTAMP lands on your desktop and **updates itself forever**. Setup automatically closes any stuck old GTAMP window during install. |
-| Portable (no install) | [GTAMP-Launcher-v2.1.1.exe](https://github.com/lsdojrp123-ai/GTAMPv1/releases/latest/download/GTAMP-Launcher-v2.1.1.exe) |
-| All releases | [github.com/lsdojrp123-ai/GTAMPv1/releases](https://github.com/lsdojrp123-ai/GTAMPv1/releases) |
+| **GTAMP-Setup.exe** ← get this | **[GTAMP-Setup.exe](https://github.com//GTAMPv1/releases/latest/download/GTAMP-Setup.exe)** — the FiveM-style installer: double-click once, GTAMP lands on your desktop and **updates itself forever**. Setup automatically closes any stuck old GTAMP window during install. |
+| Portable (no install) | [GTAMP-Launcher-v2.1.1.exe](https://github.com//GTAMPv1/releases/latest/download/GTAMP-Launcher-v2.1.1.exe) |
+| All releases | [github.com/lsdojrp123-ai/GTAMPv1/releases](https://github.com//GTAMPv1/releases) |
 
 > If Windows shows a blue SmartScreen prompt: **More info → Run anyway** (GTAMP is not code-signed, same as many mods).
 > The new window shows a **pink v2.1.1 top-right** — if yours doesn't, that's an old window, close it and run GTAMP again.
